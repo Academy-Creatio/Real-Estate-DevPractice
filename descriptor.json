@@ -2,8 +2,9 @@
   "Descriptor": {
     "UId": "50f47447-2d8e-4498-baf1-43e1e6d0d101",
     "Name": "DevPractice",
-    "ModifiedOnUtc": "\/Date(1587389409000)\/",
+    "ModifiedOnUtc": "\/Date(1587407105000)\/",
     "Maintainer": "Customer",
+    "Description": "https://github.com/Academy-Creatio/Real-Estate-DevPractice",
     "DependsOn": [
       {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",

@@ -145,8 +145,14 @@
   "A5": "fca3a1af-45e9-4f9a-94b3-66cb882103ab",
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "684b883e-113d-4fb7-a3c6-6a2f713e28b4",
+  "E2": 1,
   "E5": false,
   "E6": true,
+  "E12": {
+    "FB1": 1,
+    "FB3": "684b883e-113d-4fb7-a3c6-6a2f713e28b4",
+    "FB2": "b8f04dae-67e2-45d9-a113-0f9a79bdd6f5"
+  },
   "E17": "StatusId",
   "E18": "StatusName"
 }

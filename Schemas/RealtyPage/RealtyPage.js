@@ -190,7 +190,7 @@ define("RealtyPage", [], function() {
 						"layoutName": "ProfileContainer"
 					},
 					"bindTo": "Area",
-					"enabled": false
+					"enabled": true
 				},
 				"parentName": "ProfileContainer",
 				"propertyName": "items",
