@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "925866ba-858d-4e06-9896-19d2d6dcc5e8",
+    "Name": "ProprtyVistsDetail",
+    "ModifiedOnUtc": "\/Date(1587403040000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Property Vists\"",
+    "DependsOn": []
+  }
+}

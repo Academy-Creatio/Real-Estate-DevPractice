@@ -1,0 +1,94 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "778ea3a0-49d0-4cad-b933-3f7f98b6dd05",
+          "DisplayValue": "DevPractice"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "60a9af70-98d1-4d2a-936f-07544434f590"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "cfe529b1-cff0-48cf-88aa-c01ad72ee9a1",
+          "DisplayValue": "Price Period"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "778ea3a0-49d0-4cad-b933-3f7f98b6dd05",
+          "DisplayValue": "DevPractice"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "eb0950fc-7a05-49d1-89fd-0ab4bb0c77e9"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "fee97361-379c-4c03-8d19-d82496321ffc",
+          "DisplayValue": "Transaction Status"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "778ea3a0-49d0-4cad-b933-3f7f98b6dd05",
+          "DisplayValue": "DevPractice"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "75ee1804-d0ba-4139-8329-1bbd01e25166"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "42e717a2-e700-4b00-b8d7-f64e65830876",
+          "DisplayValue": "Subtype"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "778ea3a0-49d0-4cad-b933-3f7f98b6dd05",
+          "DisplayValue": "DevPractice"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e9a8a99a-eac8-46ef-a729-ed494a0e4d0a"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "18f21dfd-3dc0-456b-be1a-4f6ea97778c9",
+          "DisplayValue": "Transaction Type"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "778ea3a0-49d0-4cad-b933-3f7f98b6dd05",
+          "DisplayValue": "DevPractice"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dab77899-0f54-4262-93a1-fc8afcc3d64b"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "dd5eaa21-6bc9-4786-be96-eb0626c9e397",
+          "DisplayValue": "Realty Type"
+        }
+      ]
+    }
+  ]
+}

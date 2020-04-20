@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMzkiIGhlaWdodD0iMzkiIHZpZXdCb3g9IjAgMCA2OTMuMzU5IDY5My4zNTkiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY5My4zNTkgNjkzLjM1OTsiDQoJIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KCTxnPg0KCQk8cGF0aCBkPSJNNjkzLjM1OSwzNTIuMzA0bC0zOC41Miw0Ni44TDM0Ni42OCwxNDUuNjY0TDM4LjUyLDM5OS4xMDRMMCwzNTIuMzA0bDM0Ni42OC0yODUuMTJMNjkzLjM1OSwzNTIuMzA0eiBNMzQ2LjY4LDIwNC4wNzQNCgkJCWwyMjMuNzMsMTg0LjU2bC0wLjAzNSwxNzQuMTh2NTMuMTAzdjEwLjI2aC0yNTEuMTlWNDA4LjEzNGgwLjA0di0xOS4yNWgtMTMzLjc4djEuNDkxYzAsNi4yOTksMCwxMi4xNDEsMCwxNy43NTkNCgkJCWMwLDEwLjQzOCwwLDIwLjA5MywwLDMwLjM5djIyLjk1djQ0LjgydjExOS44OGgtNjIuNDZ2LTEwLjk3OXYtNTIuMzgxVjM4OC42NjVMMzQ2LjY4LDIwNC4wNzR6IE0zODIuMjI1LDUxMy44MTdoMTI1LjMzNFYzODguNDgzDQoJCQlIMzgyLjIyNVY1MTMuODE3eiIgZmlsbD0iI0ZGNDAxMyIvPg0KCTwvZz4NCjwvc3ZnPg0K"
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8b98c300-c163-4f42-8eb2-64d66f205a47"
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "real-estate-house-property-for-business.svg"
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1587391858540+0300)\/"
+        }
+      ]
+    }
+  ]
+}

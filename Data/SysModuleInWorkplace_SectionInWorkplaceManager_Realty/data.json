@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "83cd5b40-de40-4803-ba42-07042496a7ab"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "97b62ada-1cf5-4300-a7ce-08eef23b1348",
+          "DisplayValue": "Realty"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "f9404782-9784-4dd2-9c1e-c7a0471bbc97",
+          "DisplayValue": "DevPractice"
+        }
+      ]
+    }
+  ]
+}

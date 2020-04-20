@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d752fd81-31a3-41c8-92f0-48007b7275dd",
+    "Name": "ProprtyVists",
+    "ModifiedOnUtc": "\/Date(1587402100000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Property Vists",
+    "DependsOn": []
+  }
+}

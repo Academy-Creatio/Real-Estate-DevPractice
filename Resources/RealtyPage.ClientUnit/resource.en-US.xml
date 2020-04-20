@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.PriceHCLabelCaption.Value" Value="Price National Currency" />
+			<Item Name="LocalizableStrings.ProprtyVisitsTabCaption.Value" Value="Property Visits" />
+		</Items>
+	</Group>
+</Resources>

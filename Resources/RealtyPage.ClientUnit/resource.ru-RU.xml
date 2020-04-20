@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.PriceHCLabelCaption.Value" Value="Цена в национальной валюте" />
+			<Item Name="LocalizableStrings.ProprtyVisitsTabCaption.Value" Value="Просмотры недвижимости" />
+		</Items>
+	</Group>
+</Resources>
