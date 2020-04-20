@@ -93,7 +93,7 @@ define("RealtyPage", [], function() {
 					},
 					"bindTo": "Subtype",
 					"enabled": true,
-					"contentType": 5
+					"contentType": 3
 				},
 				"parentName": "ProfileContainer",
 				"propertyName": "items",
@@ -112,7 +112,7 @@ define("RealtyPage", [], function() {
 					},
 					"bindTo": "TransactionType",
 					"enabled": true,
-					"contentType": 5
+					"contentType": 3
 				},
 				"parentName": "ProfileContainer",
 				"propertyName": "items",
@@ -131,7 +131,7 @@ define("RealtyPage", [], function() {
 					},
 					"bindTo": "Status",
 					"enabled": true,
-					"contentType": 5
+					"contentType": 3
 				},
 				"parentName": "ProfileContainer",
 				"propertyName": "items",

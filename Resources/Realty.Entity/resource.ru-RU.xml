@@ -9,6 +9,9 @@
 			<Item Name="Columns.Owner.Caption" Value="Владелиц" />
 			<Item Name="Columns.PriceFC.Caption" Value="Цена в иностранной валюте" />
 			<Item Name="Columns.PriceHC.Caption" Value="Цена в национальной валюте" />
+			<Item Name="Columns.Status.Caption" Value="Состояние предложения" />
+			<Item Name="Columns.Subtype.Caption" Value="Подтип" />
+			<Item Name="Columns.TransactionType.Caption" Value="Тип предложе" />
 			<Item Name="Columns.Type.Caption" Value="Тип" />
 		</Items>
 	</Group>
